@@ -1,0 +1,25 @@
+{
+  "name": "huehue",
+  "version": "1.0.0",
+  "description": "Control your lights from a web browser. Create schedules, rules based on who's on the network, and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bschlenk/huehue.git"
+  },
+  "keywords": [
+    "phillips",
+    "hue",
+    "phillips hue",
+    "nmap"
+  ],
+  "author": "Brian Schlenker <bschlenk@umich.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bschlenk/huehue/issues"
+  },
+  "homepage": "https://github.com/bschlenk/huehue#readme"
+}
